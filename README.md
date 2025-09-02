@@ -2,6 +2,29 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Non‑ecommerce website pages are implemented with React Router and SEO meta via `react-helmet-async`.
+
+Getting started
+1. Install deps: `npm install`
+2. Start dev server: `npm start`
+3. Update site details in `src/config/site.ts` (brand, address, phone, URLs).
+
+Routes
+- `/` Home
+- `/custom-cabinets` Custom Orders
+- `/installation` Installation Services
+- `/about` About
+- `/contact` Contact
+- `/blog` Blog index
+- `/blog/:slug` Blog post
+
+SEO
+- Per‑page `<title>`, meta description, canonical, and JSON‑LD via Helmet.
+- Default `<title>` and description set in `public/index.html`.
+
+Styling
+- Base mobile‑first styles in `src/App.css`.
+
 ## Available Scripts
 
 In the project directory, you can run:
