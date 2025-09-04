@@ -45,7 +45,7 @@ export default function Home() {
         <meta property="og:title" content={`Cabinets & Flooring in Burnsville, MN | ${SITE.BRAND_NAME}`} />
         <meta property="og:description" content="Cabinets and flooring with free design help, local showroom, and trusted installation across the Twin Cities." />
         <meta property="og:url" content={`${SITE.SITE_URL}/`} />
-        <meta property="og:image" content={SITE.OG_IMAGE_URL} />
+        <meta property="og:image" content={"/public/frontpager.png"} />
       </Helmet>
       <JsonLd data={ld} />
 
@@ -54,7 +54,6 @@ export default function Home() {
           <div className="container">
             <div className="grid cols-2">
               <div>
-                <div className="breadcrumbs" aria-label="Breadcrumbs">Home</div>
                 <h1>Cabinets and flooring for Minnesota homes.</h1>
                 <p className="muted">Beautiful, durable cabinets and floors — designed, delivered, and installed across the Twin Cities.</p>
                 <p>
