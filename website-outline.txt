@@ -1,0 +1,133 @@
+Website Outline – Burnsville Kitchen Cabinet Company
+
+Primary Goals:
+1. Maximize Local SEO – Rank for “Kitchen Cabinets Burnsville,” “White Shaker Cabinets Twin Cities,” “Cabinets Near Me,” etc.
+2. E-Commerce Ready – Customers can browse, select, and purchase online.
+3. Lead Generation – Capture quotes and appointment requests.
+4. Mobile-First Design – Fast, responsive layout for mobile users.
+
+1. Homepage
+● Purpose: Immediate attention grab, showcase products, drive visitors to shop or request a quote.
+● Header (Sticky): Logo, Navigation Menu, Call-to-Action Button, Phone Number, Location Tag
+● Hero Section: High-quality image slider, strong headline, subheading, dual CTA buttons
+● Featured Products Section: 3–6 top sellers with thumbnails & prices
+● Why Choose Us Section: Icons + Short Points
+● Local SEO Callout: 'Proudly serving Burnsville, Minneapolis, Saint Paul & the Twin Cities'
+● Customer Testimonials / Google Review Feed
+● Footer: Contact Info, Hours, Quick Links, Social Icons, Google Map Embed
+
+2. Shop Cabinets (E-Commerce Catalog Page)
+● Purpose: Online product browsing & buying.
+● Filters: Color, Size, Style, Price Range, Stock Status
+● Product Grid: Thumbnail image, title, price, quick 'Add to Cart'
+● Sort Options: Best Selling, Price Low–High, Newest
+● Breadcrumb Navigation for SEO
+
+3. Product Detail Page
+● Purpose: Showcase each product for maximum conversions & SEO.
+● Large photo gallery (multiple angles & lifestyle shots)
+● Product Title + SEO Keywords
+● Price + 'In Stock in Burnsville' badge
+● Add to Cart + Buy Now button
+● Specs Tab: Dimensions, materials, finish, installation notes
+● Local Pickup Info – 'Same-day pickup available in Burnsville'
+● Related Products carousel
+
+4. Custom Orders Page
+● Purpose: Capture customers who want special sizes, colors, or designs.
+● Photo gallery of past custom work
+● Step-by-step process graphic
+● Form: Name, Contact Info, Project Details, Upload Kitchen Layout
+● Local SEO copy: 'Custom Kitchen Cabinets in Burnsville – Serving All of Minnesota'
+
+5. Installation Services Page
+● Purpose: Upsell installation service & capture leads.
+● Overview of services offered
+● Before/After gallery
+● Testimonials from install clients
+● CTA: 'Request Installation Quote' form
+
+6. About Us Page
+● Purpose: Build trust & brand story.
+● Short company history, mission statement
+● Photos of team & warehouse in Burnsville
+● Certifications, memberships, awards
+● Google Map with 'Visit Us'
+
+7. Contact Page
+● Purpose: Make it easy for customers to reach you.
+● Phone, Email, Address (clickable for GPS)
+● Contact form with dropdown for Inquiry Type
+● Google Map Embed showing Burnsville location
+● Hours of operation
+
+8. SEO & Blog Section
+● Purpose: Boost search engine ranking with targeted content.
+● Example Blog Topics:
+● - 5 Reasons Burnsville Homeowners Love White Shaker Cabinets
+● - Kitchen Remodeling Costs in Minnesota – 2025 Guide
+● - In-Stock vs. Custom Cabinets – Which Is Right for You?
+● - Cabinet Care Tips for Minnesota Homes
+● - How to Measure Your Kitchen for New Cabinets
+
+9. Technical SEO & Marketing Setup
+● Mobile-optimized, fast-loading theme
+● Schema Markup for Local Business & Products
+● SEO-friendly URLs
+● Meta titles & descriptions for each page/product
+● Google My Business integration & reviews feed
+● Facebook Pixel + Google Analytics + Google Tag Manager
+● Abandoned cart email setup
+
+● What Customers Want to See
+	○ Clear promise above the fold: one-sentence value proposition, who you are for
+	and what you do (Ex: "Custom kitchen cabinets made in Burnsville – delivered &
+	installed in 4-6 weeks").
+	○ Strong, inspirational image: full-bleed photo of a real installed kitchen (high-res,
+	styled, with people or warm lighting).
+	○ Primary Call to Action: "Book a free design consult", "Get an estimate", or "Try
+	the kitchen visualizer" (make it super obvious what the next step is after scanning
+	the website).
+	○ Easy navigation: Shop (styles), what inspires what we offer (modern designs,
+	farm look, etc), Pricing, About, Contact, Showroom/Book Visit.
+	○ Product Discovery: clear categories (Modern/Farm
+	Look/Shaker/Frameless/Stock/Semi-custom/Custom), filters (finish, door style,
+	budget, lead time).
+	○ Visual configurator or moodboard: let customers swap finishes, hardware, and
+	layouts; instant preview is a huge relationship builder.
+	○ Pricing transparency: ballpark prices or pricing tiers (starting at $X) and an
+	estimator or sample quotes.
+	○ Simple process and timeline: 5-7 step visiual: Measure -> Design -> Build ->
+	Install -> Warranty.
+	○ Social proof & portfolio: before/after gallery, project case studies, customer
+	photos, 5-star customer reviews.
+	○ Trust signals: Better Business Bureau cert, manufacturer certs, retailer/brand
+	logos, financing partners, installation warranty + lead time guarantees.
+	○ As many contact options as possible: call, text, book appointment, email, request
+	samples, etc.
+	○ Local info: service area, showroom hours, appointment-only visits, etc.
+	○ Lead capture with value: offer samples, a downloadable planning guide, or a
+	"kitchen budget worksheet" in exchange for email.
+	○ Fast performance website & mobile-friendly design
+	○ Learning content: short guides ("How to choose cabinet style", "Budget
+	breakdown", "What to expect during install").
+● Homepage Overview
+	○ Why choose us: 3 quick value bullets (Lifetime warranty, free design, etc).
+	○ Interactive element: Visualizer/Estimator or "See similar kitchens in your
+	budget".
+	○ Portfolio carousel: high-quality before/after images with short captions (location
+	+ budget range)
+	○ How it works (3-5 steps): icons + one-line copy each.
+	○ Pricing snapshot/packages: Starter/mid/premium with starting prices & features.
+	○ Reviews & press: star rating + one-line reviews + logos
+	○ Lead starter: "Get our Kitchen Planning Checklist" (captures customer's email).
+	○ Footer: Contact, Showroom map + hours, Financing, Warranty, FAQs, Social
+	links.
+	● Example Microcopy & CTAs
+	○ Hero headlines ("Custom cabinets – installed in 4-6 weeks", "Beautiful kitchens.
+	Built for real life", "Twin Cities-made cabinets with delivery all throughout the
+	Midwest".
+	○ CTAs: "Book a free consult", "Estimate my kitchen", "Try the visualizer",
+	"Request free samples".
+	○ Trust snippet: "5-year warranty on cabinetry; Free in-home measuring; A+ rating
+	with x".

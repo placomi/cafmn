@@ -1,27 +1,31 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
-import "./App.css";
-import Home from "./pages/Home";
-import CustomCabinets from "./pages/CustomCabinets";
-import Installation from "./pages/Installation";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import BlogIndex from "./pages/BlogIndex";
-import BlogPost from "./pages/BlogPost";
-import Flooring from "./pages/Flooring";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Layout from './components/layout/Layout';
+import ScrollToTop from './components/common/ScrollToTop';
+import Home from './pages/Home';
+import Shop from './pages/Shop';
+import ProductDetail from './pages/ProductDetail';
+import CustomOrders from './pages/CustomOrders';
+import Installation from './pages/Installation';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import './App.css';
 
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/custom-cabinets" element={<CustomCabinets />} />
-      <Route path="/installation" element={<Installation />} />
-      <Route path="/flooring" element={<Flooring />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/blog" element={<BlogIndex />} />
-      <Route path="/blog/:slug" element={<BlogPost />} />
-    </Routes>
+    <Router>
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="shop" element={<Shop />} />
+          <Route path="product/:id" element={<ProductDetail />} />
+          <Route path="custom" element={<CustomOrders />} />
+          <Route path="installation" element={<Installation />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contact />} />
+        </Route>
+      </Routes>
+    </Router>
   );
 }
 
