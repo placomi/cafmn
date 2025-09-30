@@ -22,7 +22,7 @@ export default function Header() {
             </div>
             <div className="flex items-center">
               <MapPin className="h-4 w-4 mr-2 text-accent-500" />
-              <span className="font-medium">{businessConfig.address.city}, {businessConfig.address.state}</span>
+              <span className="font-medium">{businessConfig.address.fullAddress}</span>
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@ export default function Header() {
         {/* Main navigation */}
         <div className="flex items-center justify-between py-4">
           {/* Logo */}
-          <Logo className="h-8 w-auto" />
+          <Logo className="h-12 w-auto" />
 
           {/* Navigation buttons */}
           <nav className="hidden md:flex items-center space-x-1">

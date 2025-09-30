@@ -14,7 +14,7 @@ export default function Logo({
   return (
     <Link to="/" className="flex items-center space-x-3">
       <img
-        src="/logo.png"
+        src="/logolarge.png"
         alt="CAFMN Logo"
         className={className}
       />

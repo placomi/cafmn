@@ -1,6 +1,6 @@
 export const businessConfig = {
     // Company Information
-    name: 'CAFMN',
+    name: 'MCB Cabinets',
     tagline: 'Premium Kitchen Cabinets Made in Burnsville',
     description: 'Premium kitchen cabinets serving Burnsville and the Twin Cities.',
 
